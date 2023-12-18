@@ -1,0 +1,2 @@
+
+    app = TicketBookingApp(root)
